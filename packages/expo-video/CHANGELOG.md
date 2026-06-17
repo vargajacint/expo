@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [Android][iOS] Add `maxResolution` player option to cap adaptive video track selection.
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
